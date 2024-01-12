@@ -4,20 +4,18 @@ Abbas Raza
 12.1. bis 23.2.2024
  
 ## Grob-Planung
- 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+Ich will eine Reaktionspiel programmieren, dass deine Zeit misst jedes Mal man ein Knopf drückt nachdem die Hintergrundsfarbe sich verändert hat. Die Messungen werden in ein Textdatei gespeichert und am Ende der Session per Email geschickt. Es könnte auch in Ein Datenbank gespeichert werden. Ich habe schon früher schwierigere Sachen programmiert, aber ich will mein Orgasnisation, doukentation und Einschätzungsfähigkeit verbessern. Darum hatte ich eine 4,5 im Modul 319 anstatt etwas besser, weil ich sehr unklar war.
  
 ## 12.1.2024
- 
-✍️ Heute habe ich... (50-100 Wörter)
+Ich habe mich entschieden was ich für die nächsten zwei Wochen programmieren werde. Ich dachte lange darüber was ich machen könnte. Ich wollte SQL lernen aber kam zur Vereinigung das ich das sowieso zuhause lernen werde, also habe ich beschlossen in C# etwas zu programmieren. Ich habe entschieden das ich eine Reaktion Spiel programmieren, dass der Spieler seine Zeit misst jedes Mal man den Knopf drückt, nachdem die Hintergrundfarbe sich verändert hat. Die Messungen werden in ein Textdatei gespeichert und am Ende jeder Session per Email geschickt. Es könnte auch in Ein Datenbank gespeichert werden. Ich habe begonnen der Layout vom Spiel zu gestalten. Ich werde mit dem nächstes Mal weiterführen.
+
  
 ## 19.1.2024
  
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Ich will die Gestaltung vom App fertigkriegen.
+- [ ] Ich will die Buttons und Textboxen definieren.
+- [ ] Ich will den Timer programmieren den die Reaktionszeit aufnimmt.
+
  
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
@@ -31,9 +29,9 @@ Abbas Raza
  
 ## 26.1.2024
  
-- [ ] Fünftes AP
-- [ ] Spiel endet, wenn Schlange sich selber beisst
-- [ ] Achtes AP
+- [ ] Ich will den Speicherung der Daten in ein Text Datai programmieren.
+- [ ] Ich will den Email Funktionalität programmieren, das ich meine Daten Online speichern kann.
+- [ ] Ich will den Code verbessern / besser gestalten und Redundanzen entfernen.
 
  
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
