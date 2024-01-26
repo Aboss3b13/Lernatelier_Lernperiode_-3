@@ -36,9 +36,8 @@ Ich habe beschlossen, was ich für die nächsten zwei Wochen programmieren werde
  
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 5   |     |     |     |     |
-| 7   | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet |     |
-| 8   |     |     |     |     |
+| 1   |   Program gestartet, Start drücken, warten bis die Farbe sich ändert  |  auf button drücken   |   Zeit gebraucht für das Klicken  | ja    |
+
  
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
  
