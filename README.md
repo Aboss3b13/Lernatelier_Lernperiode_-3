@@ -19,12 +19,11 @@ Ich habe beschlossen, was ich für die nächsten zwei Wochen programmieren werde
  
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
-| ... |     |     |     |     |
-| 4   |     |     |     |     |
+| 1   |   Program gestartet, Start drücken, warten bis die Farbe sich ändert  |  auf button drücken   |   Zeit gebraucht für das Klicken  | nein    |
+
  
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
- 
+Heute habe ich das Layout für das Reaktionsspiel in einer Windows Form-Anwendung entworfen. Ich habe den Code für Änderungen am Hintergrund implementiert. Beim Versuch, den Timer zu integrieren, stellte ich fest, dass es nicht wie erwartet funktionierte. Daher habe ich in einer Konsolenanwendung versucht, diesen Timer zu programmieren, um die Reaktionszeit zu steuern. Mein nächster Schritt wird sein, diesen Code beim nächsten Mal in die Windows Form-Anwendung zu integrieren. (69 Würter)
+
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
  
 ## 26.1.2024
@@ -39,8 +38,9 @@ Ich habe beschlossen, was ich für die nächsten zwei Wochen programmieren werde
 | 1   |   Program gestartet, Start drücken, warten bis die Farbe sich ändert  |  auf button drücken   |   Zeit gebraucht für das Klicken  | ja    |
 
  
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
- 
+Heute setzte ich meine Programmierarbeit am Reaktionsspiel fort. Nachdem ich das Layout in der Windows Form App gestaltet und den Konzeptcode in einer Konsolen-App erstellt hatte, integrierte ich diesen Code in die Windows Form App. Anschließend implementierte ich zusätzliche Funktionen, wie das Speichern von Daten in einem Textdokument und die Integration einer E-Mail-Funktion. Zum Abschluss versuchte ich, den Code zu optimieren. (61 Wörter)
+
+
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
  
 ## 16.2.2024
