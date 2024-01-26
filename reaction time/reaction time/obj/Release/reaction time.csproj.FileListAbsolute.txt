@@ -1,0 +1,10 @@
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\bin\Release\reaction time.exe.config
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\bin\Release\reaction time.exe
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\bin\Release\reaction time.pdb
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\obj\Release\reaction time.csproj.AssemblyReference.cache
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\obj\Release\reaction_time.Form1.resources
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\obj\Release\reaction_time.Properties.Resources.resources
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\obj\Release\reaction time.csproj.GenerateResource.cache
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\obj\Release\reaction time.csproj.CoreCompileInputs.cache
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\obj\Release\reaction time.exe
+C:\School\BBB\Lernatelier\ChatClient\reaction time\reaction time\obj\Release\reaction time.pdb
